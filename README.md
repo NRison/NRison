@@ -7,8 +7,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Virtual Machine (Microsoft Azure Set Up and Test)</b>
-  - [Creating a virtual machine in microsoft azure
+- <b>Virtual Machine (Microsoft Azure Set Up and Test) (https://github.com/NRison/osticket-prereqs)</b>
+  - [Creating a virtual machine in microsoft azure 
   - [Pinging for traffic to ensure on proper network
   - [Checking for traffic
     
