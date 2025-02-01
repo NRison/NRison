@@ -8,7 +8,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Machine (Microsoft Azure Set Up and Test)</b>
-  - [Creating a Virtual Machine in Microsoft Azure](https://github.com/NRison/Virtual-Machine-Creation-Microsoft-Azure-) 
+  - [Creating a Virtual Machine in Microsoft Azure](https://github.com/NRison/https-github.com-NRison-Virtual-Machine-Creation-Microsoft-Azure-) 
   - [Pinging for traffic to ensure on proper network
   - [Checking for traffic
     
