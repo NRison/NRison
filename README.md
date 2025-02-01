@@ -8,9 +8,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Machine (Microsoft Azure Set Up and Test)</b>
-  - [Creating a Virtual Machine in Microsoft Azure](https://github.com/NRison/https-github.com-NRison-Virtual-Machine-Creation-Microsoft-Azure-) 
-  - [Pinging for traffic to ensure on proper network
-  - [Checking for traffic
+  - [Creating a Virtual Machine in Microsoft Azure](https://github.com/NRison/https-github.com-NRison-Virtual-Machine-Creation-Microsoft-Azure-)
+  - Inspecting Traffic Between Azure Virtual Machines
+  - Network Security Groups (NSGs)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NRison/osTicket-Prerequisites-and-Installation)
