@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My name is Nahshon Rison and I am an IT Support Professional!! 
 
 <!--
 **NRison/NRison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
