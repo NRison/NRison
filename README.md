@@ -20,7 +20,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NRison/Configuring-Active-Directory-with-Microsoft-Azure)
   - [Deploying Active Directory](https://github.com/NRison/Deploying-Active-Directory.git)
-  - [Creating Users with PowerShell]
+  - [Creating Users with PowerShell](https://github.com/NRison/Creating-Users-with-PowerShell.git)
     
 - <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs]
