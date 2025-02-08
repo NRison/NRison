@@ -10,7 +10,7 @@
 - <b>Virtual Machine (Microsoft Azure Set Up and Test)</b>
   - [Creating a Virtual Machine in Microsoft Azure](https://github.com/NRison/https-github.com-NRison-Virtual-Machine-Creation-Microsoft-Azure-.git)
   - [Inspecting Traffic Between Azure Virtual Machines](https://github.com/NRison/Inspecting-Traffic-Between-Azure-Virtual-Machines)
-  - [Network Security Groups (NSGs) and Powershell](https://github.com/NRison/Network-Security-Groups-NSGs-and-Powershell)
+  - [Network Security Groups (NSGs) and PowerShell](https://github.com/NRison/Network-Security-Groups-NSGs-and-Powershell)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NRison/osTicket-Prerequisites-and-Installation)
@@ -19,7 +19,8 @@
    
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NRison/Configuring-Active-Directory-with-Microsoft-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols
+  - [Deploying Active Directory](https://github.com/NRison/Deploying-Active-Directory.git)
+  - [Creating Users with PowerShell]
     
 - <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs]
