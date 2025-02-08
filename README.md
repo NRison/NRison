@@ -21,6 +21,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NRison/Configuring-Active-Directory-with-Microsoft-Azure)
   - [Deploying Active Directory](https://github.com/NRison/Deploying-Active-Directory.git)
   - [Creating Users with PowerShell](https://github.com/NRison/Creating-Users-with-PowerShell.git)
+  - [Group Policy and Managing Accounts](https://github.com/NRison/Group-Policy-and-Managing-Accounts.git)
     
 - <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs]
