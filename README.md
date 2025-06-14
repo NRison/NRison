@@ -23,12 +23,11 @@
   - [Creating Users with PowerShell and Group Policy](https://github.com/NRison/Creating-Users-with-PowerShell-and-Group-Policy) 
 
 - <b>DNS</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols
+  - [Testing Domain Name/Manually Changing IP Addresses/Local Cache]
     
 - <b>Network File Shares and Permissions</b>
   - [Creating File Permissions]
-  - [xxxx
+
 
 
 
