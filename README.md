@@ -26,7 +26,7 @@
    - [Testing Domain Name/Manually Changing IP Addresses/Local Cache](https://github.com/NRison/DNS.git)
     
 - <b>Network File Shares and Permissions</b>
-  - [Creating File Permissions]
+  - [Creating File Permissions](https://github.com/NRison/Network-File-Shares-and-Permissions.git)
 
 
 
