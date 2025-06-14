@@ -23,7 +23,7 @@
   - [Creating Users with PowerShell and Group Policy](https://github.com/NRison/Creating-Users-with-PowerShell-and-Group-Policy) 
 
 - <b>DNS</b>
- - [Testing Domain Name/Manually Changing IP Addresses/Local Cache](https://github.com/NRison/DNS.git)
+   - [Testing Domain Name/Manually Changing IP Addresses/Local Cache](https://github.com/NRison/DNS.git)
     
 - <b>Network File Shares and Permissions</b>
   - [Creating File Permissions]
